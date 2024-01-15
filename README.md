@@ -1,4 +1,11 @@
 
+<style>
+    .contenedor { display: flex; flex-wrap: wrap; }
+
+    .columna { flex: 0 0 50%; box-sizing: border-box; padding: 10px; }
+</style>
+
+
 <div align="center">
 <h1 align="center">Hola, soy Emilio Partida 👋</h1>
 </div>
@@ -25,56 +32,54 @@ Con una sólida experiencia de cuatro años en el desarrollo web utilizando la t
 
 ## 🛠️ Mis habilidades  
 
-<div align="center">
 
-<table>
-    <tbody>
-        <tr>
-            <td>
-                <h3>Desarrollo front-end:</h3>                 
-                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,dotnet,html,jquery,laravel,react,flutter,dart&perline=5" />
-                </a>
-            </td>
-            <td>
-                <h3>Desarrollo back-end:</h3>                 
-                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=cs,dotnet,go,nginx,nodejs,php,py&perline=5" />
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h3>Lenguajes de programación:</h3>                 
-                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=git,cs,bash,css,dart,dotnet,go,html,php,py&perline=5" />
-                </a>
-            </td>
-            <td>
-                <h3>Herramientas varias:</h3>                 
-                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=git,docker,vim,jenkins,figma,postman,vscode,github,gitlab,linux,kafka,bash&perline=5" />
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h3>Bases de datos:</h3>                 
-                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&perline=5" />
-                </a>
-            </td>
-            <td>
-                <h3>SRE & DevOps:</h3>                 
-                <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=aws,azure,nginx&perline=5" />
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
 
+<div class="contenedor">
+<div class="columna">
+    <h3>Desarrollo front-end:</h3>                 
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,dotnet,html,jquery,laravel,react,flutter,dart&perline=5" />
+    </a>
 </div>
+<div class="columna">
+    <h3>Desarrollo back-end:</h3>                 
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,go,nginx,nodejs,php,py&perline=5" />
+    </a>
+</div>
+
+
+<div class="columna">
+    <h3>Lenguajes de programación:</h3>                 
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,cs,bash,css,dart,dotnet,go,html,php,py&perline=5" />
+    </a>
+</div>
+<div class="columna">
+    <h3>Herramientas varias:</h3>                 
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,docker,vim,jenkins,figma,postman,vscode,github,gitlab,linux,kafka,bash&perline=5" />
+    </a>
+</div>
+
+
+<div class="columna">
+    <h3>Bases de datos:</h3>                 
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&perline=5" />
+    </a>
+</div>
+<div class="columna">
+    <h3>SRE & DevOps:</h3>                 
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws,azure,nginx&perline=5" />
+    </a>
+</div>
+
+    
+</div>
+
+
 
 
 
@@ -94,3 +99,4 @@ Con una sólida experiencia de cuatro años en el desarrollo web utilizando la t
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuisDeLaValie&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
