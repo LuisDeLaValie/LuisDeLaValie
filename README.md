@@ -40,13 +40,13 @@ Con una sólida experiencia de cuatro años en el desarrollo web utilizando la t
             <td>
                 <h3>Desarrollo front-end:</h3>                 
                 <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,dotnet,html,jquery,laravel,react,flutter,dart" />
+                    <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,dotnet,html,jquery,laravel,react,flutter,dart&perline=6" />
                 </a>
             </td>
             <td>
                 <h3>Desarrollo back-end:</h3>                 
                 <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=cs,dotnet,go,nginx,nodejs,php,py" />
+                    <img src="https://skillicons.dev/icons?i=cs,dotnet,go,nginx,nodejs,php,py&perline=6" />
                 </a>
             </td>
         </tr>
@@ -54,13 +54,13 @@ Con una sólida experiencia de cuatro años en el desarrollo web utilizando la t
             <td>
                 <h3>Lenguajes de programación:</h3>                 
                 <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=git,cs,bash,css,dart,dotnet,go,html,php,py" />
+                    <img src="https://skillicons.dev/icons?i=git,cs,bash,css,dart,dotnet,go,html,php,py&perline=6" />
                 </a>
             </td>
             <td>
                 <h3>Herramientas varias:</h3>                 
                 <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=git,docker,vim,jenkins,figma,postman,vscode,github,gitlab,linux,kafka,bash" />
+                    <img src="https://skillicons.dev/icons?i=git,docker,vim,jenkins,figma,postman,vscode,github,gitlab,linux,kafka,bash&perline=6" />
                 </a>
             </td>
         </tr>
@@ -68,13 +68,13 @@ Con una sólida experiencia de cuatro años en el desarrollo web utilizando la t
             <td>
                 <h3>Bases de datos:</h3>                 
                 <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
+                    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite&perline=6" />
                 </a>
             </td>
             <td>
                 <h3>SRE & DevOps:</h3>                 
                 <a href="https://skillicons.dev">
-                    <img src="https://skillicons.dev/icons?i=aws,azure,nginx" />
+                    <img src="https://skillicons.dev/icons?i=aws,azure,nginx&perline=6" />
                 </a>
             </td>
         </tr>
