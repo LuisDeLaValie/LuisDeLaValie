@@ -95,3 +95,21 @@ Con una sólida experiencia de cuatro años en el desarrollo web utilizando la t
 </a>
 </p>
 
+
+
+
+### :open_file_folder: Mis repositorios 
+<p align="center">
+    <a href="https://github.com/LuisDeLaValie/Jenkins">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDeLaValie&repo=Jenkins&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/LuisDeLaValie/open_as_default">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDeLaValie&repo=open_as_default&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/LuisDeLaValie/xpence">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDeLaValie&repo=xpence&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/LuisDeLaValie/TDTxNFIcons">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDeLaValie&repo=TDTxNFIcons&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+</p>
