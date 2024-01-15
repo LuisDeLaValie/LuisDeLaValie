@@ -4,11 +4,11 @@
 </div>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=500&height=50&color=457B9D&size=26&lines=Desarollador Backend;Desaroolador WEB;Desarrollador Flutter;Desarrollador DevOps">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=500&height=50&color=457B9D&size=36&lines=Desarollador+Backend;Desaroolador+WEB;Desarrollador+Flutter;Desarrollador+DevOps">
   </a>
 </p>
 
-<img src="imgs/fondo.jpeg">
+<!--<img src="imgs/fondo.jpeg">-->
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TDTxLE@gmail.com)
@@ -19,22 +19,10 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí***
 
-Mexicano, originario de Colima, especializado en el desarrollo de aplicaciones web y aplicaciones móviles. Apasionado de aprender nuevas tecnologías para innovar.
+Soy mexicano, originario de Colima, y me especializo en el desarrollo de aplicaciones web y móviles. Soy apasionado por aprender nuevas tecnologías para innovar y mejorar mis habilidades.
 
-Con cuatro años de experiencia en el desarrollo web con la tecnología **Net** y desarrollo móvil con la tecnología **flutter**.
+Con una sólida experiencia de cuatro años en el desarrollo web utilizando la tecnología **.NET** y en el desarrollo móvil con la tecnología **Flutter**. Mi enfoque se centra en crear soluciones eficientes y atractivas para satisfacer las necesidades de los usuarios.
 
-Estudiante de ***sistemas computacionales*** actual mente en curso en el ***Tecnológico Nacional de México*** ( ***TecNM*** ) campus colima, con cuatro años de experiencia en el desarrollo web y móvil con las tecnológicas ***net*** y ***flutter***
-<!-- 
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
-
--->
 ## 🛠️ Mis habilidades  
 
 <div align="center">
