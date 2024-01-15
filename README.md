@@ -25,7 +25,7 @@ Con una sólida experiencia de cuatro años en el desarrollo web utilizando la t
 
 ## 🛠️ Mis habilidades  
 
-<div aling="center">
+<div align="center">
 <table>
     <tbody>
         <tr>
