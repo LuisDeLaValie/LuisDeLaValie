@@ -1,11 +1,4 @@
 
-<style>
-    .contenedor { display: flex; flex-wrap: wrap; }
-
-    .columna { flex: 0 0 50%; box-sizing: border-box; padding: 10px; }
-</style>
-
-
 <div align="center">
 <h1 align="center">Hola, soy Emilio Partida 👋</h1>
 </div>
@@ -32,8 +25,7 @@ Con una sólida experiencia de cuatro años en el desarrollo web utilizando la t
 
 ## 🛠️ Mis habilidades  
 
-
-
+<div aling="center">
 <table>
     <tbody>
         <tr>
@@ -80,6 +72,7 @@ Con una sólida experiencia de cuatro años en el desarrollo web utilizando la t
         </tr>
     </tbody>
 </table>
+</div>
 
 
 
