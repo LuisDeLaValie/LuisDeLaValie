@@ -1,10 +1,10 @@
-
 <div align="center">
-<h1 align="center">Hola, soy Emilio Partida 👋</h1>
+  <h1 align="center">¡Hola, soy Emilio Partida! 👋</h1>
 </div>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&width=500&height=50&color=457B9D&size=36&lines=Desarollador+Backend;Desaroolador+WEB;Desarrollador+Flutter;Desarrollador+DevOps">
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&width=500&height=50&color=457B9D&size=36&lines=Desarrollador+Backend;Desarrollador+WEB;Desarrollador+Flutter;Desarrollador+DevOps">
   </a>
 </p>
 
@@ -22,6 +22,7 @@
 Soy mexicano, originario de Colima, y me especializo en el desarrollo de aplicaciones web y móviles. Soy apasionado por aprender nuevas tecnologías para innovar y mejorar mis habilidades.
 
 Con una sólida experiencia de cuatro años en el desarrollo web utilizando la tecnología **.NET** y en el desarrollo móvil con la tecnología **Flutter**. Mi enfoque se centra en crear soluciones eficientes y atractivas para satisfacer las necesidades de los usuarios.
+
 
 ## 🛠️ Mis habilidades  
 
