@@ -113,4 +113,7 @@ Con una sólida experiencia de cuatro años en el desarrollo web utilizando la t
     <a href="https://github.com/LuisDeLaValie/TDTxNFIcons">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDeLaValie&repo=TDTxNFIcons&theme=tokyonight" alt="GitHub Stats" />
     </a>
+  <a href="https://github.com/LuisDeLaValie/viewpdf">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisDeLaValie&repo=viewpdf&theme=tokyonight" alt="GitHub Stats" />
+    </a>
 </p>
